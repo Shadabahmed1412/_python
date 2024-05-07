@@ -1,0 +1,46 @@
+# # -->>> in python ther is tow loops while loop and for loop 
+
+# # 1) while loop 
+
+# # i=1
+# # while i<=50:
+# #     print(i)
+# #     i=i+1
+    
+    
+    
+    
+#     # 2) for loop >>>>>>>>>>>>.. 
+# #  range function in python 
+# for i in range ( 3,8):
+#     print (i)
+    
+    
+#     #  for loop with else function 
+    
+# l=[3,5,6,6,8,8]
+# for item in l:
+#         print(item)  
+# else:
+#     print("done")
+#         # print(l)  
+        
+        
+        
+#         # ___>>>>>>>>>>>>>>>>>continue statement >>>>>>>>>>>
+        
+# for i in range(5):
+   
+#     if i==2:
+#          continue
+#     print(i)
+# #    it will skip the 2 and sitll continue the next itteration 
+
+
+# _>>>>>>>>>>.. THE PASSS STATEMENT ________<>>>>>>>>>>> 
+#  PASS IS A NULL STATEMENT (IT INSTRUCT TO  DO NOTHING)
+
+S= [2,4,6,89]
+for item in S :
+    pass
+ 
