@@ -1,0 +1,38 @@
+
+# list1 = ["shadab", 20,60000,"goodcompany",True]
+
+
+# indexing 
+# print(list1[3]);
+# print(list1[2]);
+# print(list1[0]);
+# print(list1[3:])
+# its is caled list slicing 
+
+
+# lets play with list 
+# operation perfome by list 
+list2 =[2,3,4,6,5];
+
+# list2.sort()
+# # [2, 3, 4, 5, 6]   output
+# list2.reverse()
+# # [6, 5, 4, 3, 2] output 
+# print(list2)
+
+# list2.append(9)
+# # [2, 3, 4, 6, 5, 9] output
+# print(list2)
+
+# list2.insert(3,7)
+# # [2, 3, 4, 7, 6, 5] it will insert 7 at index 3
+# print(list2)
+
+# list2.pop(4)
+# [2, 3, 4, 6]  it will remove the 4th index value
+# print(list2)
+
+
+list2.remove(2)
+# [3, 4, 6, 5]   it will remove the 2 from the list 
+print(list2)
