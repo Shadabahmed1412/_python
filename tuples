@@ -1,0 +1,13 @@
+
+#   defination ->   tuple is a immutable (that cannot be changed)data type in python 
+
+a=()
+# -->> this is emty tuple
+a=(2,)
+# tuplewith single element with commaa
+a=(3,4.5)
+# tuple with more than one elements
+
+b =(3,5,2,5)
+print(b.count(5))
+print(b.index(3))
