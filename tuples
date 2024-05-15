@@ -1,5 +1,6 @@
 
 #   defination ->   tuple is a immutable (that cannot be changed)data type in python 
+#this is how tuple define ? or decalare
 
 a=()
 # -->> this is emty tuple
@@ -9,5 +10,6 @@ a=(3,4.5)
 # tuple with more than one elements
 
 b =(3,5,2,5)
+#these are the operation that we can perfome with tuple
 print(b.count(5))
 print(b.index(3))
