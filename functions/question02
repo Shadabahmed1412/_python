@@ -1,0 +1,9 @@
+# Problem: Create a function that takes two numbers as parameters and returns their sum.
+
+def sum(num1,num2):
+    sum= num1+num2
+    print(sum)
+    
+
+sum(2,4)
+sum(4,6)
